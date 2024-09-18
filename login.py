@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-print("Estamos trabajando en  el  login")
-=======
-print("inicialializando  el login")
-print("ingresando line apara  usar stash")
->>>>>>> main
+print("Estamos trabajando en  el  login main ghfghf")
